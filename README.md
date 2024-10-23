@@ -8,9 +8,8 @@ skimage and opencv-python for multilevel image segmentation.
 title={Improved Snow Ablation Optimization for Multilevel Threshold Image Segmentation},  
 author={Zhong, Rui and Chao, Zhang and Yu, Jun},  
 journal={Cluster Computing},  
-pages={},  
+pages={1-32},  
 year={2024},  
 publisher={Springer},  
-doi = {},  
-note = {Accepted},  
+doi = {10.1007/s10586-024-04785-w},  
 }
