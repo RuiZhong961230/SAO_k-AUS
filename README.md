@@ -7,7 +7,7 @@ Snow ablation optimization (SAO) is a novel metaheuristic algorithm (MA). Howeve
 ## Citation
 @article{Zhong:24,  
 title={Improved Snow Ablation Optimization for Multilevel Threshold Image Segmentation},  
-author={Zhong, Rui and Chao, Zhang and Yu, Jun},  
+author={Rui Zhong and Chao Zhang and Jun Yu},  
 journal={Cluster Computing},  
 pages={1-32},  
 year={2024},  
