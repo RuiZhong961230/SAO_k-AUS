@@ -15,5 +15,9 @@ publisher={Springer},
 doi = {10.1007/s10586-024-04785-w},  
 }
 
+
 ## Datasets and Libraries
-CEC benchmarks are provided by the opfunu library, engineering problems are provided by the enoppy library, and datasets of multilevel image segmentation are provided by skimage and opencv-python libraries.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively, Deep learning models are provided by the Pytorch==2.1.2 library, and datasets of multilevel image segmentation are provided by the skimage==0.24.0 and opencv-python==4.8.0.74 libraries.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
